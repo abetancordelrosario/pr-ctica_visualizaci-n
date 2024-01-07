@@ -1,1 +1,1 @@
-# pr-ctica_visualizaci-n
+# Código para el preprocesado en la práctica de visualización.
